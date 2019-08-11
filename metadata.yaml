@@ -1,0 +1,32 @@
+_repo: The-Up-Grade_60010
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Grunwald, Charles
+    alias: Grünwald, Ch. (Charles)
+    gutenberg_agent_id: '36252'
+    url: http://www.gutenberg.org/2009/agents/36252
+creator:
+  author:
+    agent_name: Goodwin, Wilder
+    gutenberg_agent_id: '50732'
+    url: http://www.gutenberg.org/2009/agents/50732
+description: ''
+gutenberg_issued: '2019-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60010'
+  lccn: '10001470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arizona -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Mines and mineral resources -- Fiction'
+- GITenberg
+title: The Up Grade
+url: http://www.gutenberg.org/ebooks/60010
